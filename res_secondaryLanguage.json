@@ -1,0 +1,127 @@
+{
+    "basic_info": {
+      "description_header": "Hi ! ",
+      "description": " I'm Lola — a passionate full stack web developer with a strong focus on front-end and solid experience in back-end technologies. I design and build modern web applications using HTML, CSS/Sass, JavaScript, React and MongoDB, Node.js and Express. I love turning ideas into real digital projects that are both functional and user-friendly. Thanks for visiting my portfolio — enjoy your stay! 💻✨",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "My old grimoire",
+        "startDate": "2025",
+        "description": "Book management application with authentication, ratings, and image handling. This full stack project was built with MongoDB, Node.js, Express, Multer, and JWT. It allowed me to master the entire processing chain of a secure API.",
+        "images": [
+          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p1.webp",
+          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p2.webp"
+        ],
+        "url": "https://github.com/Lola-Chevallier/mon-vieux-grimoire",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Kasa - Real Estate Rental Platform",
+        "startDate": "2025",
+        "description": "Responsive web application built with React and Vite for a real estate rental platform. It features dynamic routing with React Router, a mobile-first approach, and components like a carousel and accordions. This project highlights a component-based architecture, prop management, and redirection to an error page.",
+        "images": [
+          "images/portfolio/kasa/kasa-p1.webp",
+          "images/portfolio/kasa/kasa-p2.webp"
+        ],
+        "url": "https://github.com/Lola-Chevallier/kasa",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Architect Portfolio - Sophie Bluel",
+        "startDate": "2025",
+        "description": "Dynamic single-page web application developed in vanilla JavaScript. The app fetches project data from a REST API and allows authenticated users to delete and add projects via a modal interface. This project showcases DOM manipulation, asynchronous functions, API integration, and modal interface handling.",
+        "images": [
+          "images/portfolio/sophie-bluel/sophie-bluel-p1.webp",
+          "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
+        ],
+        "url": "https://github.com/Lola-Chevallier/portfolio-architecte-sophie-bluel",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "OpenClassromms",
+        "title": "Web Developer in Training",
+        "years": "12.2024 - 06.2025",
+        "mainTech": [
+          "React", "Node.js", "MongoDB"
+        ],
+        "technologies": [
+           "HTML",
+          "CSS/Sass",
+          "JavaScript",
+          "Express",
+          "JWT",
+          "Multer",
+          "React",
+          "Project Management",
+          "REST API"
+        ]
+      },
+      {
+        "company": "Personal Projects",
+        "title": "Full Stack Developer",
+        "years": "12.2024 - To day",
+        "mainTech": [
+          "React, Sass"
+        ],
+        "technologies": [
+          "Responsive design",
+          "Multilingual",
+          "Git Versioning",
+          "JavaScript",
+          "Accessibility",
+          "SEO"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,127 @@
+{
+    "basic_info": {
+      "description_header": "Salut !",
+      "description": "👋 Je suis Lola — une développeuse web full stack passionnée, avec une forte expertise en front-end et de solides compétences en back-end. Je conçois et développe des applications web modernes avec HTML, CSS/Sass, JavaScript, React, MongoDB, Node.js et Express. J'aime transformer des idées en projets concrets, fonctionnels et accessibles. Merci de visiter mon portfolio — bonne navigation ! 💻✨",
+      "section_name": {
+        "about": "A propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Mon vieux grimoire",
+        "startDate": "2025",
+        "description": "Application de gestion de livres avec authentification, notation et gestion d'images. Ce projet full stack a été réalisé avec MongoDB, Node.js, Express, Multer et JWT. Il m’a permis de maîtriser l’ensemble de la chaîne de traitement d’une API sécurisée.",
+        "images": [
+          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p1.webp",
+          "images/portfolio/mon-vieux-grimoire/mon-vieux-grimoire-p2.webp"
+        ],
+        "url": "https://github.com/Lola-Chevallier/mon-vieux-grimoire",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Kasa - Plateforme de location immobilière",
+        "startDate": "2025",
+        "description": "Application web responsive construite avec React et Vite pour une plateforme de location immobilière. Elle comprend un routage dynamique avec React Router, une approche mobile-first, ainsi que des composants comme un carrousel et des accordéons. Ce projet met en valeur une architecture basée sur les composants, la gestion des props et la redirection vers une page d’erreur.",
+        "images": [
+          "images/portfolio/kasa/kasa-p1.webp",
+          "images/portfolio/kasa/kasa-p2.webp"
+        ],
+        "url": "https://github.com/Lola-Chevallier/kasa",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Portfolio d’architecte - Sophie Bluel",
+        "startDate": "2025",
+        "description": "Application web dynamique en une seule page, développée en JavaScript natif. L’application récupère les projets depuis une API REST et permet aux utilisateurs authentifiés de supprimer et d’ajouter des projets via un système de modale. Ce projet met en avant la manipulation du DOM, les fonctions asynchrones, l’intégration d’API et la gestion d’une interface modale.",
+        "images": [
+          "images/portfolio/sophie-bluel/sophie-bluel-p1.webp",
+          "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
+        ],
+        "url": "https://github.com/Lola-Chevallier/portfolio-architecte-sophie-bluel",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Openclassrooms",
+        "title": "Développeuse web en formation",
+        "years": "12.2024 - 06.2025",
+        "mainTech": [
+          "React", "Node.js", "MongoDB"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS/Sass",
+          "JavaScript",
+          "Express",
+          "JWT",
+          "Multer",
+          "React",
+          "Gestion de projet",
+          "API REST"
+        ]
+      },
+      {
+        "company": "Projets personnels",
+        "title": "Développur full stack",
+        "years": "12.2024 - Aujourd'hui",
+        "mainTech": [
+          "React, Sass"
+        ],
+        "technologies": [
+          "Responsive design",
+          "Multilingue",
+          "Versioning Git",
+          "JavaScript",
+          "Accessibilité",
+          "SEO"
+        ]
+      }
+    ]
+  }

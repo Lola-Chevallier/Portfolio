@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Lola Chevallier",
+      "titles": [ "Développeuse full stack junior | React / Node.js / MongoDB | Exploratrice du web moderne" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Lola-Chevallier",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "http://www.linkedin.com/in/lola-chevallier-935710224",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile1.webp"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "75"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "70"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "80"
+        }
+      ]
+    }
+  }
