@@ -67,7 +67,7 @@
         "startDate": "2025",
         "description": "Application web dynamique en une seule page, développée en JavaScript natif. L’application récupère les projets depuis une API REST et permet aux utilisateurs authentifiés de supprimer et d’ajouter des projets via un système de modale. Ce projet met en avant la manipulation du DOM, les fonctions asynchrones, l’intégration d’API et la gestion d’une interface modale.",
         "images": [
-          "images/portfolio/sophie-bluel/sophie-bluel-p1.webp",
+          "images/portfolio/sophie-bluel/sophie-bluel-p3.webp",
           "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
         ],
         "url": "https://github.com/Lola-Chevallier/portfolio-architecte-sophie-bluel",

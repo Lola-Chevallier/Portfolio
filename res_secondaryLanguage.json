@@ -67,7 +67,7 @@
         "startDate": "2025",
         "description": "Dynamic single-page web application developed in vanilla JavaScript. The app fetches project data from a REST API and allows authenticated users to delete and add projects via a modal interface. This project showcases DOM manipulation, asynchronous functions, API integration, and modal interface handling.",
         "images": [
-          "images/portfolio/sophie-bluel/sophie-bluel-p1.webp",
+          "images/portfolio/sophie-bluel/sophie-bluel-p3.webp",
           "images/portfolio/sophie-bluel/sophie-bluel-p2.webp"
         ],
         "url": "https://github.com/Lola-Chevallier/portfolio-architecte-sophie-bluel",
